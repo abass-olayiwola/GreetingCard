@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Greeting Card</string>
+    <string name="hello">Hello %1$s!</string>
+    <string name="signature">from %1$s</string>
+</resources>
